@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obius.MolarisAPI", "Obius.MolarisAPI\Obius.MolarisAPI.csproj", "{83103009-08BF-4871-A0B5-DCCAA5D66BB8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JwtServices", "JwtServices\JwtServices.csproj", "{8322615D-C1A5-4A47-8C63-6E546F4A69D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Obius.DigitalInvoice", "Obius.DigitalInvoice\Obius.DigitalInvoice.csproj", "{62FCE101-0184-4EAF-88ED-8CC5B68B2064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obius.Service", "Obius.Service\Obius.Service.csproj", "{025626D6-DA0F-4F49-8E9B-596F3C0087D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obius.Service.Tests", "Obius.Service.Tests\Obius.Service.Tests.csproj", "{801AE52F-A4D0-4E3F-843E-FE12B8C9C5F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83103009-08BF-4871-A0B5-DCCAA5D66BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83103009-08BF-4871-A0B5-DCCAA5D66BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83103009-08BF-4871-A0B5-DCCAA5D66BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83103009-08BF-4871-A0B5-DCCAA5D66BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8322615D-C1A5-4A47-8C63-6E546F4A69D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8322615D-C1A5-4A47-8C63-6E546F4A69D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8322615D-C1A5-4A47-8C63-6E546F4A69D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8322615D-C1A5-4A47-8C63-6E546F4A69D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62FCE101-0184-4EAF-88ED-8CC5B68B2064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FCE101-0184-4EAF-88ED-8CC5B68B2064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62FCE101-0184-4EAF-88ED-8CC5B68B2064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62FCE101-0184-4EAF-88ED-8CC5B68B2064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025626D6-DA0F-4F49-8E9B-596F3C0087D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025626D6-DA0F-4F49-8E9B-596F3C0087D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025626D6-DA0F-4F49-8E9B-596F3C0087D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025626D6-DA0F-4F49-8E9B-596F3C0087D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801AE52F-A4D0-4E3F-843E-FE12B8C9C5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801AE52F-A4D0-4E3F-843E-FE12B8C9C5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801AE52F-A4D0-4E3F-843E-FE12B8C9C5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801AE52F-A4D0-4E3F-843E-FE12B8C9C5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {284DD91A-7734-4CCD-9DEE-6F80B4254B73}
+	EndGlobalSection
+EndGlobal
